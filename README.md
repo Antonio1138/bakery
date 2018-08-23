@@ -1,8 +1,8 @@
 # Bakery Home page
 ### Ejemplo de U.I. creada con Bootstrap4
 
-<img src="https://github.com/Antonio1138/Frases_basicas/blob/master/Speech-Bubbles.jpg" alt="notes"
-  width="500" height="300"/>
+<img src="https://github.com/Antonio1138/bakery/blob/master/bakery.png" alt="notes"
+  width="900" height="450"/>
 
 ## Descripción
 "Landing page" de una tienda ficticia de repostería.
